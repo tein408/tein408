@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- Java
+- Spring
+- MySQL
+
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=aria22408)](https://solved.ac/aria22408)
 
 <!--
