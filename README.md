@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - Java
-- Spring
+- Spring Boot
 - MySQL
 
 
