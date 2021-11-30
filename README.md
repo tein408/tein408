@@ -6,6 +6,10 @@
 - Spring Boot
 - MySQL
 
+---
+
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=aria22408)](https://solved.ac/aria22408)
+
 <!--
 **tein408/tein408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
