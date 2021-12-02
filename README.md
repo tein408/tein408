@@ -10,7 +10,7 @@
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=aria22408)](https://solved.ac/aria22408)
 
-[![tein408's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=tein408&theme=dark)](https://github.com/tein408/leetcode-stats)
+[![tein408's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=tein408&theme=dark)](https://leetcode.com/tein408/)
 
 
 <!--
