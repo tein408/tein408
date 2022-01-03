@@ -4,7 +4,7 @@
 
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftein408%2F&count_bg=%237F52FF&title_bg=%23007396&icon=&icon_color=%237F52FF&title=hits&edge_flat=true)](https://github.com/tein408)
   
-  ## Contact
+  # Contact
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tein408@gmail.com)](mailto:tein408@gmail.com)
   
   ## Tech Stacks
