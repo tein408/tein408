@@ -20,6 +20,8 @@
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=aria22408)](https://solved.ac/aria22408)
   [![tein408's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=tein408&theme=dark)](https://leetcode.com/tein408/)
 
+  <hr>
+  
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftein408%2F&count_bg=%237F52FF&title_bg=%23007396&icon=&icon_color=%237F52FF&title=hits&edge_flat=true)](https://github.com/tein408)
   
  </div>
