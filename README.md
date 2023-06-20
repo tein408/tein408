@@ -1,6 +1,4 @@
 <div align = "center">
-
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello%20World!&fontSize=90)
   
   # Contact
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tein408@gmail.com)](mailto:tein408@gmail.com)
