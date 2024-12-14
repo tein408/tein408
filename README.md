@@ -17,7 +17,7 @@
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=white)
 
   ## Card
-  [![tein408's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=tein408&theme=dark)](https://leetcode.com/tein408/)
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/tein408?theme=light&font=Courier%20Prime&ext=heatmap)
   
  </div>
  
